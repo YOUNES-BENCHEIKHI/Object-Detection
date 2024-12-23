@@ -1,7 +1,8 @@
 # Object Detection and Video Processing
-This project demonstrates various techniques and methods for video processing and object detection using Python. The functionalities include:
+This project demonstrates various techniques and methods for video processing and object detection using Python. 
+The functionalities include:
 
-Creating a video from a sequence of images
+Creating a video from a sequence of images \n
 Object detection in videos
 Object detection in static images
 Downloading videos and verifying their accessibility
